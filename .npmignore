@@ -4,5 +4,8 @@
 /*.log
 /test
 /.travis.yml
+/.npmignore
+/.gitignore
+/media
 
-*.js
+/*.djs

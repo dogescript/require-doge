@@ -1,7 +1,7 @@
 {
   "name": "require-doge",
   "description": "much require dogescript, such node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/Bartvds/require-doge",
   "author": {
     "name": "Bart van der Schoor",
@@ -32,9 +32,8 @@
     "node": ">= 0.10.0"
   },
   "scripts": {
-    "rebuild": "node ./node_modules/dogescript/bin/dogescript ./index.djs --beautify > ./index.js",
-    "install": "node ./node_modules/dogescript/bin/dogescript ./index.djs --beautify > ./index.js",
-    "test": "node ./node_modules/dogescript/bin/dogescript ./test/test.djs --beautify > ./test/test.js && node ./test/test"
+    "prepublish": "node node_modules/dogescript/bin/dogescript index.djs --beautify > index.js",
+    "test": "node node_modules/dogescript/bin/dogescript test/test.djs --beautify > test/test.js && node ./test/test"
   },
   "dependencies": {
     "dogescript": "~2.3.0"
