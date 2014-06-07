@@ -29,7 +29,7 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.10.0"
   },
   "scripts": {
     "rebuild": "node ./node_modules/dogescript/bin/dogescript ./index.djs --beautify > ./index.js",
