@@ -30,7 +30,7 @@ var amaze = require('./myModule.djs');
 
 ## History
 
-* 0.1.2 - fix doge
+* 0.1.3 - fix doge
 * 0.1.0 - top doge
 
 
