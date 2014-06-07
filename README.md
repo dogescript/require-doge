@@ -38,3 +38,10 @@ var amaze = require('./myModule.djs');
 ## Contributing
 
 In lieu of a formal styleguide, take care to maintain the existing doge style.
+
+
+## License
+
+Copyright (c) 2014 [Bart van der Schoor](https://github.com/Bartvds)
+
+Licensed under the MIT license.
