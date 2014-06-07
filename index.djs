@@ -3,7 +3,7 @@ so dogescript
 
 such compile much module filename
     very src is plz fs.readFileSync with filename, 'utf8'
-    very content is plz dogescript with src true
+    very content is plz dogescript with src false false
     plz module._compile with content filename
 wow
 
