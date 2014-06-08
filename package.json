@@ -1,23 +1,23 @@
 {
   "name": "require-doge",
   "description": "much require dogescript, such node",
-  "version": "0.1.5",
-  "homepage": "https://github.com/Bartvds/require-doge",
+  "version": "0.1.6",
+  "homepage": "https://github.com/dogescript/require-doge",
   "author": {
     "name": "Bart van der Schoor",
     "url": "https://github.com/Bartvds"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bartvds/require-doge"
+    "url": "https://github.com/dogescript/require-doge"
   },
   "bugs": {
-    "url": "https://github.com/Bartvds/require-doge/issues"
+    "url": "https://github.com/dogescript/require-doge/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Bartvds/require-doge/blob/master/LICENSE-MIT"
+      "url": "https://github.com/dogescript/require-doge/blob/master/LICENSE-MIT"
     }
   ],
   "keywords": [
