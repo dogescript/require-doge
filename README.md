@@ -8,7 +8,7 @@
 
      require dogescript
           such node
-        wow 
+        wow
 
 # Todo
 
@@ -27,6 +27,18 @@ require('require-doge');
 
 var amaze = require('./doge.djs');
 ````
+
+Check loaded extension:
+
+```bash
+$ node
+> require('./index.js')
+> require.extensions
+{ '.js': [Function],
+  '.json': [Function],
+  '.node': [Function],
+  '.djs': [Function: compile] }
+```
 
 ## History
 
