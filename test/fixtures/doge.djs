@@ -1,5 +1,5 @@
 such loge
-    plz console.loge 'wow!'
+    plz console.loge with 'wow!'
 wow
 
 module.exports is loge;
