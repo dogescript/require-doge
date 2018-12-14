@@ -2,7 +2,7 @@
 
 >  directly require [dogescript](https://github.com/dogescript/dogescript) files in node
 
-[![Build Status](https://secure.travis-ci.org/dogescript/require-doge.svg?branch=master)](http://travis-ci.org/dogescript/require-doge) [![Dependency Status](https://gemnasium.com/dogescript/require-doge.svg)](https://gemnasium.com/dogescript/require-doge) [![NPM version](https://badge.fury.io/js/require-doge.svg)](http://badge.fury.io/js/require-doge)
+[![Build Status](https://secure.travis-ci.org/dogescript/require-doge.svg?branch=master)](http://travis-ci.org/dogescript/require-doge) [![Dependency Status](https://david-dm.org/dogescript/require-doge.svg)](https://david-dm.org/dogescript/require-doge) [![NPM version](https://badge.fury.io/js/require-doge.svg)](http://badge.fury.io/js/require-doge)
 
 ![wow](https://raw.github.com/dogescript/require-doge/master/media/doge-01.jpg)
 
