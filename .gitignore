@@ -3,3 +3,5 @@
 /*.tgz
 /*.log
 *.js
+
+package-lock.json
