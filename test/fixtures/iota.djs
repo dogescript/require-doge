@@ -3,4 +3,4 @@ such iota much n
   dose map with Number.call Number
 wow series
 
-module.exports is iota
+woof iota
