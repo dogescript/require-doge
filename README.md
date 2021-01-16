@@ -42,6 +42,7 @@ $ node
 
 ## History
 
+* 2.4.0 - support dogescript 2.4.0
 * 0.1.6 - moved to dogescript org
 * 0.1.4 - node no beauty
 * 0.1.3 - fix doge
